@@ -1,1 +1,1 @@
-# logicologist.github.io
+Repository for personal homepage.
