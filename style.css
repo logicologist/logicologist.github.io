@@ -1,0 +1,10 @@
+#content {
+	margin: 0 auto;
+	padding: 20px 20px 20px 20px;
+	text-align: left;
+	max-width: 800px;
+}
+
+h1, p {
+	font-family: sans-serif;
+}
