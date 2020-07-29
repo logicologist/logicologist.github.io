@@ -8,3 +8,32 @@
 h1, p {
 	font-family: sans-serif;
 }
+
+nav {
+	/*width: 100%;*/
+	border-bottom: 1px solid black;
+}
+
+.navbar {
+	list-style-type: none;
+	padding: 0px 0px 0px 00px;
+	font-family: sans-serif;
+	/*width: 100%;*/
+}
+
+.navbar::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.navitem {
+	float: left;
+	display: block;
+	margin: 0px 1em 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+/*@media (max-width: 400px) {
+	.navbar { display: none; }
+}*/
