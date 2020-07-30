@@ -35,7 +35,7 @@ a:active {
 
 .navbar {
 	list-style-type: none;
-	padding: 0px 0px 0px 00px;
+	padding: 0px 0px 0px 0px;
 	font-family: sans-serif;
 	/*width: 100%;*/
 }
@@ -60,3 +60,30 @@ a:active {
 /*@media (max-width: 400px) {
 	.navbar { display: none; }
 }*/
+
+.cvlist {
+	list-style-type: none;
+	padding: 0em 1em 0em 1em;
+}
+
+.cvitem {
+	padding: 0em 0em 1em 0em;
+}
+
+.paper-title {
+	color: #533980;
+	font-weight: bold;
+	margin: 0px 0px 3px 0px;
+}
+
+.authorlist {
+	margin: 0px 0px 3px 0px;
+}
+
+.venue {
+	font-style: italic;
+	margin: 0px 0px 3px 0px;
+}
+
+.links {
+}
