@@ -175,6 +175,31 @@ a:active {
 	color: black;
 }
 
+.infoblock {
+	/*max-width: 600px;*/
+	margin: 2em auto;
+	/*display: table-cell;
+	vertical-align: middle;*/
+}
+
+.infoblock::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.headshot {
+	float: left;
+	height: 12em;
+	border-radius: 3px;
+	margin: 0em 3em 0em 3em;
+}
+
+.contact-info {
+	/*display: inline-block;*/
+	margin: 1em 1em 1em 3em;
+}
+
 .navbar {
 	list-style-type: none;
 	padding: 0px 0px 0px 0px;
