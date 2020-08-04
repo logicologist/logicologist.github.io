@@ -234,7 +234,7 @@ a:active {
 }
 
 .cvitem {
-	padding: 0em 0em 1em 0em;
+	margin: 0em 0em 1em 0em;
 }
 
 .cvitem-title {
@@ -257,4 +257,21 @@ a:active {
 
 .me {
 	font-weight: 600;
+}
+
+.display-table {
+	display: table;
+	width: 100%;
+}
+
+.display-tablecell {
+	display: table-cell;
+}
+
+.ljust {
+	text-align: left;
+}
+
+.rjust {
+	text-align: right;
 }
