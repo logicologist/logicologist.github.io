@@ -224,6 +224,10 @@ a:active {
 	border: 2px solid #AAA;*/
 }
 
+.imhere a {
+	color: #533980;
+}
+
 /*@media (max-width: 400px) {
 	.navbar { display: none; }
 }*/
