@@ -279,3 +279,10 @@ a:active {
 .rjust {
 	text-align: right;
 }
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.75em;
+    color: #666666;
+}
