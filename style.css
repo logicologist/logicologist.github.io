@@ -157,7 +157,7 @@ nav {
 }
 
 a {
-	color: #666;
+	color: #038CFC;
 	text-decoration: none;
 }
 
@@ -168,11 +168,20 @@ a:visited {
 }
 
 a:hover {
-	color: #333;
+	color: #026abf;
 }
 
 a:active {
 	color: black;
+}
+
+a.navbar {
+    color: #666;
+    text-decoration: none;
+}
+
+a.navbar:hover {
+    color: #333;
 }
 
 .infoblock {
