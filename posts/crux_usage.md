@@ -1,5 +1,7 @@
 # Using Chrome UX Report Popularity Data
 
+*November 23, 2022*
+
 At IMC 2022, my co-authors and I showed that the Chrome User Experience Report (CrUX) is the most accurate alternative to the now-discontinued Alexa Top Million list of popular websites:
 
 [Toppling Top Lists: Evaluating the Accuracy of Popular Website Lists](https://kcruth.com/papers/2022-Toplists.pdf). Kimberly Ruth, Deepak Kumar, Brandon Wang, Luke Valenta, and Zakir Durumeric. IMC 2022.
