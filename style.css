@@ -265,6 +265,14 @@ a.navbar:hover {
 	margin: 0px 0px 3px 0px;
 }
 
+.paper-award {
+    font-weight: bold;
+}
+
+.paper-award::before {
+    content: "\272A  ";
+}
+
 .links {
 }
 
